@@ -1,0 +1,26 @@
+{
+  "name": "lazyloader",
+  "version": "2.0.3",
+  "description": "Tiny, dependency-free async JavaScript and CSS loader.",
+  "main": "lazyload.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cellvia/lazyload.git"
+  },
+  "keywords": [
+    "lazy",
+    "load",
+    "lazyload",
+    "script",
+    "css"
+  ],
+  "author": "Ryan Grove",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cellvia/lazyload/issues"
+  },
+  "homepage": "https://github.com/cellvia/lazyload"
+}
